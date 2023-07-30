@@ -1,3 +1,7 @@
+![Screenshot 2023-07-30 234603](https://github.com/Sajalsk/Weather_Clock/assets/86351716/3db2285f-e68a-4146-9621-b7a5d1c497f4)
+![Screenshot 2023-07-30 234636](https://github.com/Sajalsk/Weather_Clock/assets/86351716/b16b1cb0-6195-4cc4-8c37-311eefa62763)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
